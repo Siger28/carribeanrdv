@@ -1,0 +1,20 @@
+/*Navigation*/
+/*Section Accueil*/
+/*Section Map*/
+/*Section Rendez-vous internationaux*/
+/*Section Carrousel*/
+/*Section Réalisations*/
+/*Section Contact*/
+/*Fonts*/
+@font-face{
+    font-family: 'LibreBaskerville';
+    src: url('../fonts/LibreBaskerville-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'BrandonGrotesqueLight';
+    src: url('../fonts/Brandon_light.otf') format('opentype');
+}
+@font-face{
+    font-family: 'SnellRoundHand';
+    src: url('../fonts/SnellBT-Regular.otf') format('opentype');
+}
