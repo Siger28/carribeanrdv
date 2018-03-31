@@ -1,0 +1,19 @@
+Section Header:
+Réseau de professionnel de l’évenementielet du mariage aux Caraïbes (Milton One Regular 78pt)
+
+Section Map:
+Le Réseau (Milton One Regula 54pt)
+Caribbean rendez-vous (ITC Garamond Std Light 42pt)
+CARTE DU MONDE & DESTINATION (ITC Garamond Std Light 30pt)
+
+Section Events:
+- Articles:
+	Paris - 03/08 (Milton One Regula 52pt)
+	ad miniation nisi aliquipTEMPOR CONSECTER (ITC Garamond Std Light 30pt)
+	Lorem (Raleway Light 14pt)
+	Voir (Raleway Light 17pt)
+
+Section Carrousel:
+Notre (Milton One Regula 54pt)
+Concept (ITC Garamond Std Light 42pt)
+Lorem (Raleway Light 14pt)
